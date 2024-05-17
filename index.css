@@ -47,7 +47,7 @@ nav li a:hover{
 
 body{
  
-  background-image: url("/images/dagat.jpg");
+  background-image: "image src="dagattt.jpg" alt="dagatt";
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
